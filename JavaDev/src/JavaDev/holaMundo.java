@@ -16,6 +16,10 @@ public class holaMundo {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world!");
 		System.out.println("Jueeee!");
+		
+		int jue = 5;
+		
+		System.out.println("Jueeeeee es: " + jue);
 	}
 
 }
